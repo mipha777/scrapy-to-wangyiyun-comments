@@ -7,7 +7,7 @@
 """
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
-from wangyiyun_comments.spiders.wangyi import WangyiSpider  # 替换成你真实的spider路径
+from wangyiyun_comments.spiders.wangyi import WangyiSpider  
 
 
 
